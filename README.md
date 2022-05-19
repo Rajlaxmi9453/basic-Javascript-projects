@@ -1,2 +1,3 @@
 # basic-Javascript-projects
-some basic javascript projects of beginner's level
+some beginner's level javascript project
+
